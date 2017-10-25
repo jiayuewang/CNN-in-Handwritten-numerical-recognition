@@ -1,3 +1,4 @@
+LINK: https://docs.google.com/document/d/1UObikovxTEAPQNqHA1M0YtAcgiK4cTH_Am5W36pK5Dg/edit
 # Neural-Network
 learn Error backpropagation algorithm and applied in  handwritten numerical recognition
 
